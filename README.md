@@ -2,6 +2,8 @@
 
 This repository contains a comprehensive analysis of Uber pickup data from NYC (Jan-Jun 2015), along with weather and borough mapping information. The goal of this project is to predict Uber demand patterns and optimize urban transportation strategies.
 
+You can better View the Notebook in [this Kaggle link](https://www.kaggle.com/code/zakariaeyoussefi/predicting-uber-pickups-nyc-boroughs)
+
 ## Project Overview
 
 ### Objectives:
